@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 Soy estudiante avanzado en Analista en Sistemas, me encuentro en la fase final de mi carrera ; emocionado por comenzar con mi proyecto final (Tesis) . Mi pasión por la tecnología y la informática ha sido una constante fuente de motivación a lo largo de mis estudios. Lo que más disfruto es la programación, donde puedo dar vida a ideas y resolver problemas a través de la escritura de código. 
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
