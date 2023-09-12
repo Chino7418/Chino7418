@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy estudiante avanzado en Analista en Sistemas, me encuentro en la fase final de mi carrera ; emocionado por comenzar con mi proyecto final (Tesis) . Mi pasión por la tecnología y la informática ha sido una constante fuente de motivación a lo largo de mis estudios. Lo que más disfruto es la programación, donde puedo dar vida a ideas y resolver problemas a través de la escritura de código. Estoy ansioso por aplicar todo lo que he aprendido hasta ahora y seguir adquiriendo conocimientos en este apasionante campo.
+Soy estudiante avanzado en Analista en Sistemas, me encuentro en la fase final de mi carrera ; emocionado por comenzar con mi proyecto final (Tesis) . Mi pasión por la tecnología y la informática ha sido una constante fuente de motivación a lo largo de mis estudios. Lo que más disfruto es la programación, donde puedo dar vida a ideas y resolver problemas a través de la escritura de código. 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Chino7418">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
